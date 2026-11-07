@@ -1,0 +1,1 @@
+rootProject.name = "hack-the-burgh-llm-blockchain"
